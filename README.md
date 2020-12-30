@@ -11,7 +11,7 @@ Notes lets you create, edit and delete notes. You may also add or delete tags fo
 
 * Create or Delete Tags for each Note.
 
-* Makes Promise based HTTP requests using [Axios](https://github.com/axios/axios)
+* Makes Promise based HTTP requests using [Axios]
 
 * 
 
